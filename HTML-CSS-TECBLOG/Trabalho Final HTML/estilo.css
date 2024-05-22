@@ -1,0 +1,144 @@
+body{
+    background-color: #e6e6e6;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    background-color: #f7b600;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.grayy{
+color: #4e4e4e;
+}
+.whitee{
+    color: #ffffff;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 30px;
+}
+#link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    margin: 0px 0px 20px 0px;
+}
+#link:hover{
+    color: #4e4e4e;
+    background-color: #e6e6e6;
+}
+a{
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.header2{
+    width: 100%;
+    height: 30px;
+}
+.corpo{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.postagem1{
+    height: auto;
+    width: 63%;
+    background-color: #ffffff;
+    margin: 20px 15px;
+    border: solid 20px;
+    border-color: #ffffff;
+}
+#img1{
+    display: flex;
+    flex-direction: column;
+}
+#post1{
+    color: #f7b600;
+}
+.Ppostagen{
+    display: flex;
+    flex-direction: column;
+    width: 27%;
+    height: auto;
+    margin: 20px 20px;
+}
+.postagens{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    border: solid white 10px;
+    width: 100%;
+    background-color: white;
+    height: 200px;
+}
+.postagens2{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: #4e4e4e;
+    background-color: #c5c5c5;
+}
+#postagens2{
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 5px #c5c5c5;
+}
+.postagens3{
+    width: 100%;
+}
+#leia_mais{
+    text-decoration: none;
+    color: #f7b600;
+}
+.postagensB{
+    display: flex;
+    flex-direction: column;
+    border: solid white 10px;
+    margin: 20px 0px;
+    width: 100%;
+    background-color: white;
+    height: 200px;
+}
+.Ppostagen2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin: 20px -10px;
+}
+#textogrande{
+    font-size: larger;
+}
+.Ppostagens3{
+    font-size: larger;
+
+    flex-direction: column;
+}
+.direitos{
+    text-align: center;
+    background-color: #b4b4b4;
+    width: 100%;
+}
+.Ppostagens{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    border: solid white 10px;
+    width: 100%;
+    background-color: white;
+    height: 200px;
+}
